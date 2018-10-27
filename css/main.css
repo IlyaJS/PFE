@@ -1,0 +1,14 @@
+#marketlist li {
+
+        list-style-type: none; 
+       }
+       #marketlist li:before {
+        content: "§"; 
+}
+.ordinary {
+
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     background-color: cyan;
+     font-size: 100px;
+}
+
